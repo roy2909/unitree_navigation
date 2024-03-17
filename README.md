@@ -21,7 +21,7 @@ Use `ros2 launch unitree_nav ${launch_file_name} --show-args` to view arguments 
 - `rslidar_robosense.launch.py` - launches only RTAB-Map nodes set up in a configuration that is compatiable with the RS-Helios-16P.
 - `mapping_camera.launch.py` - launches RTAB-Map nodes to map with point cloud data from the RS-Helios-16P and RGB data from the RealSense D435i.
 - `rslidar_robosense_camera.launch.py` - launches only RTAB-Map nodes set up in a configuration that is compatiable with the RS-Helios-16P and infrared data from the RealSense D435i.
-- `unitree_nav_camera.launch.py` - launches everything necessary for controlling the Unitree Go1 with the Nav2 stack, including control and mapping nodes, and infrared data from the RealSense D435i.
+- `unitree_nav_camera.launch.py` - launches everything necessary for controlling the Unitree Go1 with the Nav2 stack, including control and mapping nodes
 
 # Nodes
 ## cmd_processor
