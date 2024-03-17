@@ -95,7 +95,7 @@ def generate_launch_description():
                 PathJoinSubstitution([
                     FindPackageShare('unitree_nav'),
                     'launch',
-                    'rslidar_robosense.launch.py'
+                    'rslidar_realsense.launch.py'
                 ])
             ),
             launch_arguments=[
