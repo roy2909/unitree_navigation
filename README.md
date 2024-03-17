@@ -1,3 +1,4 @@
+## Modified by Rahul Roy - added lidar and realsense integration
 # ROS 2 Unitree Go1 Nav2 Integration
 This repository has code and launch files for running the Unitree Go1 in high level mode with ROS 2 Humble, the RoboSense RS-Helios-16P it comes with, RTAB-Map, and the Nav2 stack. 
 
